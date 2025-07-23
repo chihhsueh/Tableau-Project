@@ -33,12 +33,12 @@ Scatter Plot – Stringency Index vs. Case Rates
 
 Displays the exponential global growth of COVID-19 cases from 2020 to 2022.
 
-2. Deaths vs. Cases
+2. Deaths vs. Cases<br/>
 <img width="440" height="463" alt="Screenshot 2025-07-23 at 12 21 15 PM" src="https://github.com/user-attachments/assets/522b21bb-d648-4adf-8d02-e06aa7aa643c" /> <br/>
 
 A color-coded scatter plot showing the strong correlation between total deaths and cases over time.
 
-3. GDP Per Capita by Continent <br/>
+3. GDP Per Capita by Continent
 <img width="801" height="400" alt="Screenshot 2025-07-23 at 12 21 40 PM" src="https://github.com/user-attachments/assets/f1a86c9b-114f-4896-a430-e9eb0223570d" /> <br/>
 
 Shows average GDP per capita by continent — an initial economic perspective.
