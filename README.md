@@ -34,6 +34,7 @@ Scatter Plot – Stringency Index vs. Case Rates
 Displays the exponential global growth of COVID-19 cases from 2020 to 2022.
 
 2. Deaths vs. Cases<br/>
+
 <img width="440" height="463" alt="Screenshot 2025-07-23 at 12 21 15 PM" src="https://github.com/user-attachments/assets/522b21bb-d648-4adf-8d02-e06aa7aa643c" /> <br/>
 
 A color-coded scatter plot showing the strong correlation between total deaths and cases over time.
