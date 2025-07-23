@@ -38,7 +38,7 @@ Displays the exponential global growth of COVID-19 cases from 2020 to 2022.
 
 A color-coded scatter plot showing the strong correlation between total deaths and cases over time.
 
-3. GDP Per Capita by Continent
+3. GDP Per Capita by Continent <br/>
 <img width="801" height="400" alt="Screenshot 2025-07-23 at 12 21 40 PM" src="https://github.com/user-attachments/assets/f1a86c9b-114f-4896-a430-e9eb0223570d" /> <br/>
 
 Shows average GDP per capita by continent — an initial economic perspective.
@@ -49,7 +49,7 @@ Reveals GDP per capita decline across most continents, highlighting economic imp
 
 Depicts hospital bed availability per thousand people, reflecting strain on health systems.
 
-5. Vaccination vs. COVID Death Rates
+5. Vaccination vs. COVID Death Rates <br/>
 <img width="496" height="470" alt="Screenshot 2025-07-23 at 12 22 45 PM" src="https://github.com/user-attachments/assets/68f32e6e-4442-46b6-8211-2b26e301dc1c" /> <br/>
 
 Shows inverse relationship between increasing vaccination rates and declining death rates.
